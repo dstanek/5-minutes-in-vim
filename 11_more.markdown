@@ -9,3 +9,7 @@
 * pep8
 
 * redbar/greenbar
+
+* debugging with PDB
+
+* retab
