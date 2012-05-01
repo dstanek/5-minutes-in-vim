@@ -1,0 +1,17 @@
+
+Activate
+  ,t
+
+Select
+  <cr>
+ - or -
+  <c-enter>
+
+Next/Prev
+  <c-n>
+  <c-p>
+
+Cancel
+  <esc>
+ - or -
+  <c-c>
